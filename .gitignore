@@ -1,0 +1,11 @@
+# Python (backend)
+backend/venv/
+backend/__pycache__/
+*.pyc
+
+# macOS
+.DS_Store
+
+# Frontend (frontend/ already has its own .gitignore too)
+frontend/node_modules/
+frontend/dist/
